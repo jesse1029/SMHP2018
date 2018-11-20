@@ -1,3 +1,5 @@
+The implementation of paper titled: C.C. Hsu, C.Y. Lee, T.X. Liao, et.al., "An Iterative Refinement Approach for Social Media Headline Prediction," ACM Multimedia (ACMMM), Seoul, Korea, 22 - 26 Oct. 2018.
+
 =======================================================
 Environmental setting
 OS: Microsoft Windows 10 Pro 64bit
@@ -46,3 +48,10 @@ before executing RFC_v3_final_released.py
    ==>It will generate the final result "SMHP18.json"
 
 =============================================================
+
+@article{hsu2018iterative,
+  title={An Iterative Refinement Approach for Social Media Headline Prediction},
+  author={Hsu, Chih-Chung and Lee, Chia-Yen and Liao, Ting-Xuan and Lee, Jun-Yi and Hou, Tsai-Yne and Kuo, Ying-Chu and Lin, Jing-Wen and Hsueh, Ching-Yi and Zhan, Zhong-Xuan and Chien, Hsiang-Chin},
+  journal={arXiv preprint arXiv:1809.08753},
+  year={2018}
+}
